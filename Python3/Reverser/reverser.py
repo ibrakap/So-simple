@@ -1,0 +1,10 @@
+file = input("Dosya ismi:")
+file_w = input("Yazılacak dosya ismi:")
+read_1 = open(file,"r")
+READ = read_1.read()
+print(READ)
+re = READ[::-1]
+print(re)
+Makefile = open("{}".format(file_w),"w")
+Makefile.write("{}".format(re))
+Makefile.close()
