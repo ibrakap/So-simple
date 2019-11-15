@@ -1,0 +1,20 @@
+﻿Build started 06.06.2019 15:13:28.
+     1>Project "C:\Users\KK\Desktop\Hacking_Stuff\Yeni klasör\CD_Tray\CD tray\CD tray.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\CD tray.tlog\unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KK\Desktop\Hacking_Stuff\Yeni klasör\CD_Tray\Debug\CD tray.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\KK\Desktop\Hacking_Stuff\Yeni klasör\CD_Tray\Debug\CD tray.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KK\Desktop\Hacking_Stuff\Yeni klasör\CD_Tray\Debug\CD tray.lib" /MACHINE:X86 Debug\Resource.res
+         Debug\Source.obj
+         CD tray.vcxproj -> C:\Users\KK\Desktop\Hacking_Stuff\Yeni klasör\CD_Tray\Debug\CD tray.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CD tray.tlog\unsuccessfulbuild".
+         Touching "Debug\CD tray.tlog\CD tray.lastbuildstate".
+     1>Done Building Project "C:\Users\KK\Desktop\Hacking_Stuff\Yeni klasör\CD_Tray\CD tray\CD tray.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.59
