@@ -1,0 +1,6 @@
+/robots.txt
+/wp-admin/
+/favicon.ico
+/fuckdir
+/sogooddir
+/print
