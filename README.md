@@ -1,1 +1,1 @@
-Simple programs, functions and etc
+Simple and useless programs
